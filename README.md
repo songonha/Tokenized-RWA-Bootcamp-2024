@@ -2,6 +2,16 @@
 
 Link: https://cll-devrel.gitbook.io/tokenized-rwa-bootcamp-2024
 
+1/ Function (Subcription)
+
+2/ SetIssuer - Call Issue
+
+3/ UpdatePriceDetail
+
+4/ Automation
+
+
+
 ## SEPOLIA (Gaslimit: 30000000)
 
 RealEstateToken Contract: 0x09D7b15AefD465Fd5edD66B0E50c4e68e2e4C8b7
