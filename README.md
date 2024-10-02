@@ -38,4 +38,8 @@ Issuer Contract: 0x9574Fb5aDC4F7A3303385C12D3E268358eC23D99
 
 https://www.oklink.com/amoy/address/0x9574fb5adc4f7a3303385c12d3e268358ec23d99
 
+Function: https://functions.chain.link/polygon-amoy/359
+
+
+
 
