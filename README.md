@@ -21,5 +21,8 @@ Add funds 8 LINKs to Subcription
 
 https://sepolia.etherscan.io/tx/0xe1ed3dac9ed39262ad48190eb50d8bc876d15620c198fc65379477467fa50d83
 
+Add Consumer (Issuer Contract)
+
+https://sepolia.etherscan.io/tx/0x5a4f4a3c4f2d02b62ff124c16bffea45e00cf587076c4dea6b309ce3a7df2af3
 
 
