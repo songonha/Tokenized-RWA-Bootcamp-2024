@@ -27,4 +27,8 @@ Add Consumer (Issuer Contract)
 
 https://sepolia.etherscan.io/tx/0x5a4f4a3c4f2d02b62ff124c16bffea45e00cf587076c4dea6b309ce3a7df2af3
 
+Add Consumer (RealEstateToken Contract)
+
+https://sepolia.etherscan.io/tx/0x9e0b5dd0c6c79a02cbc532cff456397123ebd7b8cf8fc9aa8b3dffe8b5154561
+
 
