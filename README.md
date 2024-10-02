@@ -8,7 +8,7 @@ RealEstateToken Contract: 0x09D7b15AefD465Fd5edD66B0E50c4e68e2e4C8b7
 
 https://sepolia.etherscan.io/address/0x09D7b15AefD465Fd5edD66B0E50c4e68e2e4C8b7#code
 
-Issuer Contract: 0x229D547b309600ba4B96b83Fb5a598E4AdC6d5a8
+### Issuer Contract: 0x229D547b309600ba4B96b83Fb5a598E4AdC6d5a8
 
 Create Subcription: (Issue to Owner Address)
 
@@ -34,11 +34,22 @@ RealEstateToken Contract: 0x14EEA1DfE472BEf79c58AEA7339d57cCd16f0664
 
 https://www.oklink.com/amoy/address/0x14eea1dfe472bef79c58aea7339d57ccd16f0664/contract
 
-Issuer Contract: 0x9574Fb5aDC4F7A3303385C12D3E268358eC23D99
+### Issuer Contract: 0x9574Fb5aDC4F7A3303385C12D3E268358eC23D99
 
 https://www.oklink.com/amoy/address/0x9574fb5adc4f7a3303385c12d3e268358ec23d99
 
 Function: https://functions.chain.link/polygon-amoy/359
+
+## FUJI
+
+RealEstateToken: 0x22E2342e20eE60010Fc9EB31f688b8F4d64D8158
+
+https://testnet.snowtrace.io/address/0x22E2342e20eE60010Fc9EB31f688b8F4d64D8158/contract/43113/code
+
+### Issuer Contract: 0xfB9CeB24372B0BdfFE0Ff311a555e481064Ee968
+
+https://testnet.snowtrace.io/address/0xfB9CeB24372B0BdfFE0Ff311a555e481064Ee968/contract/43113/code
+
 
 
 
