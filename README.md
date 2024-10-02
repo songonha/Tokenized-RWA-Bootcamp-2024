@@ -4,7 +4,7 @@ Link: https://cll-devrel.gitbook.io/tokenized-rwa-bootcamp-2024
 
 ## SEPOLIA
 
-Sepolia Contract: 0x09D7b15AefD465Fd5edD66B0E50c4e68e2e4C8b7
+RealEstateToken Contract: 0x09D7b15AefD465Fd5edD66B0E50c4e68e2e4C8b7
 
 https://sepolia.etherscan.io/address/0x09D7b15AefD465Fd5edD66B0E50c4e68e2e4C8b7#code
 
@@ -29,6 +29,10 @@ Add Consumer (RealEstateToken Contract)
 https://sepolia.etherscan.io/tx/0x9e0b5dd0c6c79a02cbc532cff456397123ebd7b8cf8fc9aa8b3dffe8b5154561
 
 ## POLYGON AMOY
+
+RealEstateToken Contract: 0x14EEA1DfE472BEf79c58AEA7339d57cCd16f0664
+
+https://www.oklink.com/amoy/address/0x14eea1dfe472bef79c58aea7339d57ccd16f0664/contract
 
 
 
