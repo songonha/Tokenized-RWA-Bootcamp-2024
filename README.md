@@ -50,6 +50,7 @@ https://testnet.snowtrace.io/address/0x22E2342e20eE60010Fc9EB31f688b8F4d64D8158/
 
 https://testnet.snowtrace.io/address/0xfB9CeB24372B0BdfFE0Ff311a555e481064Ee968/contract/43113/code
 
+Function: https://functions.chain.link/fuji/13019
 
 
 
