@@ -2,7 +2,7 @@
 
 Link: https://cll-devrel.gitbook.io/tokenized-rwa-bootcamp-2024
 
-## SEPOLIA
+## SEPOLIA (Gaslimit: 30000000)
 
 RealEstateToken Contract: 0x09D7b15AefD465Fd5edD66B0E50c4e68e2e4C8b7
 
@@ -28,7 +28,7 @@ Add Consumer (RealEstateToken Contract)
 
 https://sepolia.etherscan.io/tx/0x9e0b5dd0c6c79a02cbc532cff456397123ebd7b8cf8fc9aa8b3dffe8b5154561
 
-## POLYGON AMOY
+## POLYGON AMOY (Gaslimit: 30000000)
 
 RealEstateToken Contract: 0x14EEA1DfE472BEf79c58AEA7339d57cCd16f0664
 
@@ -40,7 +40,7 @@ https://www.oklink.com/amoy/address/0x9574fb5adc4f7a3303385c12d3e268358ec23d99
 
 Function: https://functions.chain.link/polygon-amoy/359
 
-## FUJI
+## FUJI (Gaslimit: 300000)
 
 RealEstateToken: 0x22E2342e20eE60010Fc9EB31f688b8F4d64D8158
 
