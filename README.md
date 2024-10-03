@@ -71,6 +71,14 @@ https://testnet.snowtrace.io/address/0xE93abC39a0Ec5b3e2d12317381CB343745B07De2/
 https://testnet.snowtrace.io/address/0x55BF63642F696bE65F3Ebc8C0ADF02C1f22D2b98/contract/43113/code
 
 
+## ARBITRUM SEPOLIA 
+
+### RealEstateToken Contract: 0xb97446Da27340cB5a00Cd7E165C6cF602102c24d
+
+https://sepolia.arbiscan.io/address/0xb97446Da27340cB5a00Cd7E165C6cF602102c24d#code
+
+
+
 
 
 
