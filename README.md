@@ -79,6 +79,8 @@ https://sepolia.arbiscan.io/address/0xb97446Da27340cB5a00Cd7E165C6cF602102c24d#c
 
 Issuer Contract: 0x7512A06978c6d0ac8DF6986FDD841c6D28A279E0
 
+Function: https://functions.chain.link/arbitrum-sepolia/204
+
 https://sepolia.arbiscan.io/address/0x7512a06978c6d0ac8df6986fdd841c6d28a279e0#code
 
 RWALending Contract: 0xa9810a4c8C404D21Eb99a56e5C5e26459EBcd467
