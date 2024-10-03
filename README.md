@@ -62,9 +62,13 @@ https://testnet.snowtrace.io/address/0xfB9CeB24372B0BdfFE0Ff311a555e481064Ee968/
 
 Function: https://functions.chain.link/fuji/13019
 
-### RWALending: 0xE93abC39a0Ec5b3e2d12317381CB343745B07De2
+### RWALending Contract: 0xE93abC39a0Ec5b3e2d12317381CB343745B07De2
 
 https://testnet.snowtrace.io/address/0xE93abC39a0Ec5b3e2d12317381CB343745B07De2/contract/43113/code
+
+### EnglishAuction Contract: 0x55BF63642F696bE65F3Ebc8C0ADF02C1f22D2b98
+
+https://testnet.snowtrace.io/address/0x55BF63642F696bE65F3Ebc8C0ADF02C1f22D2b98/contract/43113/code
 
 
 
