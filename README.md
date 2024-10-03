@@ -111,6 +111,8 @@ https://sepolia.arbiscan.io/address/0xbe8905293ad6f2dd55fc22733cd3a5d35d7552f1#c
 
 Issuer Contract: 0x53BBa7289087Df92D4196eBe2dbE8e8Ce949BE58
 
+https://sepolia.arbiscan.io/address/0x53bba7289087df92d4196ebe2dbe8e8ce949be58#code
+
 Function: 
 
 RWALending Contract: 
