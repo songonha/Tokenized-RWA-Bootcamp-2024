@@ -30,6 +30,8 @@ Create Subcription: (Issue to Owner Address)
 
 Function: https://functions.chain.link/sepolia/3598
 
+Automation: 
+
 https://sepolia.etherscan.io/tx/0xc7755cad83b87720585e0284a2725bd148bc8738d3b6d1fd4dab1bd5c0d08f88
 
 Add funds 8 LINKs to Subcription
@@ -67,6 +69,8 @@ https://testnet.snowtrace.io/address/0x22E2342e20eE60010Fc9EB31f688b8F4d64D8158/
 https://testnet.snowtrace.io/address/0xfB9CeB24372B0BdfFE0Ff311a555e481064Ee968/contract/43113/code
 
 Function: https://functions.chain.link/fuji/13019
+
+Automation: https://automation.chain.link/fuji/103159623422140036275845310612717639309588389611431321288639053200235332497990
 
 ### RWALending Contract: 0xE93abC39a0Ec5b3e2d12317381CB343745B07De2
 
