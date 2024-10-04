@@ -2,6 +2,10 @@
 
 Link: https://cll-devrel.gitbook.io/tokenized-rwa-bootcamp-2024
 
+Video day 1: https://www.youtube.com/watch?v=iXWovCSahE0
+
+Video day 2: https://www.youtube.com/watch?v=OvfGvtNzEOM
+
 1/ Function (Subcription)
 
 2/ SetIssuer - Call Issue
